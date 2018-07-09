@@ -1,6 +1,6 @@
 ## Welcome to the SeazMe Platform
 
-We designed SeazMe to facilitate collaboration, findability, and communication in the corporate world. 
+We designed SeazMe to facilitate collaboration, findability, and communication in the corporate world. It is in collaboration with the InnerSource Commons Group. http://innersourcecommons.org
 
 SeazMe was created as a Platform to be very modular.   We found when Open Sourcing this was crucial for other corporation to also be able to create their versions.  We have found that in the corporate environment - the easier it was to break into pieces the easier it was to collaborate on with each team being able to clearly report what they had worked on. 
 
