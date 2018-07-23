@@ -1,6 +1,6 @@
 
 
-## To Get Started
+## Getting Started
 
 In general, you'll want a central location to store information (Seazme Data Hub) and a way to populate data in the data hub (Seazme Sources).  Take a look at the getting started pages for each of these repo's.
 
